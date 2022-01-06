@@ -1,0 +1,80 @@
+
+__**What risk is and what its relationship to threat, vulnerability, and loss is?**__
+
++ risk is the likehood that loos will occur
+
++ vulnerabilities are weak spots within the environment and the assets—weaknesses that open up to potential threats and increased risk
+**  => Vulnerable increase Risk
+
++ threat refers to any possible malicious attack that seeks to unlawfully access data, disrupt digital operations or damage information
++ threat is a vulnerability in the environment that they can exploit
+**  => Threats are vulnerabilities that are exploitable
+
++ loss is unable to keep or maintain Asset
+**  => loss will occur when a threat expose a vulnuerability exploit
+
+
+__**What the major components of risk to an IT infrastructure are?**__
+
+TL;DR Copy from @chiqing no baka#4083 which is from slides
+
+User domain - any user of our systems falls in this domain, whether inside or outside our organization
+Workstation domain - not just computers, but any device our users use
+LAN domain - each LAN and the devices that make a LAN work
+WAN domain - the system that links devices across long distances; typically this is the Internet which is used by most businesses
+LAN-to-WAN domain - the infrastructure and devices that connect our organization's LANs to the WAN system
+Remote Access domain - the technologies used by our mobile and remote users to connect to their customary resources; can include VPN solutions and encryption technology
+System/Application domain - technologies used to actually conduct business functions, as opposed to making connections of various types
+
+
+__**What risk management is and how it is important to the organization?**__
+
+**What is Risk Management**
+Risk Management is the practice of identifying, assessing, controlling, and mitigating risks.
+Threats and vulnerabilities are key drivers of risk.
+Identifying the threats and vulnerabilities - an important step.
+Risk Management attempts to identify the risks
+that can be minimized and implement controls to do so.
+Risk Management starts with a Risk Assessment (or Risk Analysis).
+
+**Its important to organization**
+Risk affects an organization’s survivability
+Reasonableness
+Balancing Risk and Cost
+Role-Based Perceptions of Risk
+
+
+
+
+
+
+
+1. What risk is and what its relationship to threat, vulnerability, and loss is?
+ - Risk means the possibility of loss or injury. (Dictionary)
+ - Threat is a process that magnifies the likelihood of a negative event
+    is any circumstance or event with the potential to cause a loss
+    => risk is the potential for loss, damage or destruction of assets or data caused by a cyber threat
+ - Vulnerability is a weakness in infrastructure, networks or applications 
+    => that potentially exposes you to threats.
+    => increase risks
+ - Loss is the act or fact of being unable to keep or maintain something (Dictionary)
+
+ it means we can't keep or maintain the information, property, people or anything else that we care about (Asset)
+    => an important risk
+
+2. (From slide) What the major components of risk to an IT infrastructure are?
+User domain - any user of our systems falls in this domain, whether inside or outside our organization
+Workstation domain - not just computers, but any device our users use
+LAN domain - each LAN and the devices that make a LAN work
+WAN domain - the system that links devices across long distances; typically this is the Internet which is used by most businesses
+LAN-to-WAN domain - the infrastructure and devices that connect our organization's LANs to the WAN system
+Remote Access domain - the technologies used by our mobile and remote users to connect to their customary resources; can include VPN solutions and encryption technology
+System/Application domain - technologies used to actually conduct business functions, as opposed to making connections of various types
+
+3. What risk management is and how it is important to the organization?
+ - Risk management is the continuing process to identify, analyze, evaluate, and treat loss exposures 
+    and monitor risk control and financial resources to mitigate the adverse effects of loss.
+*
+ - to define risk as anything that can prevent the company from achieving its objectives.
+ - Although accidental losses are unforeseen and unplanned, there are methods that can make events more predictable.
+ - since the occurrence can be prevented or mitigated; or, at minimum, expenses can be estimated and budgeted.
