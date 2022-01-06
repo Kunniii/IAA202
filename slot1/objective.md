@@ -1,5 +1,4 @@
 # Risk Management Fundamental
----
 
 ## Basic concept
 
@@ -11,9 +10,7 @@
 
 ---
 ## Risk idetify techniques [^1]
-### What is risk management?
 
-### Elements of 
 
 ---
 ## Risk management techniques
